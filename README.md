@@ -3,7 +3,12 @@
 <head>
   <title>Мой сайт</title>
 </head>
-<body>
-  <h1>Привет! Это мой сайт 🚀</h1>
+<body style="background:black; color:white; text-align:center;">
+
+  <h1>🚀 Мой крутой сайт</h1>
+  <p>Я сделал это сам!</p>
+
+  <button onclick="alert('Привет!')">Нажми меня</button>
+
 </body>
 </html>
